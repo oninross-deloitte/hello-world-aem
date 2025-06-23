@@ -202,6 +202,21 @@
               }
             }
           }
+        },
+        {
+          "title": "Custom Component",
+          "id": "custom-component",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "custom-component",
+                  "model": "custom-component"
+                }
+              }
+            }
+          }
         }
       ]
     },
