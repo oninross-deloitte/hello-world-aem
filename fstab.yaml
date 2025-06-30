@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p9606-e71941.adobeaemcloud.com/bin/franklin.delivery/oninross-deloitte/hello-world-aem/main"
+    url: "https://content.da.live/oninross-deloitte/hello-world-aem"
     type: "markup"
     suffix: ".html"
 folders:
