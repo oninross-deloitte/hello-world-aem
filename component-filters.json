@@ -23,7 +23,12 @@
       "custom-image",
       "custom-button",
       "custom-component",
-      "commerce-account-sidebar"
+      "commerce-account-sidebar",
+      "commerce-return-header",
+      "commerce-order-status",
+      "commerce-shipping-status",
+      "commerce-customer-details",
+      "commerce-order-product-list"
     ]
   },
   {
